@@ -1,3 +1,2 @@
 -Coding
--Party
 -Travel
